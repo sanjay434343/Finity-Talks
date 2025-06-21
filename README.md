@@ -42,15 +42,21 @@ In today's digital world, conversations often lack depth and meaningful exchange
 
 ---
 
+---
+
 ## 📸 Screenshots
 
 | Home Page | Podcast Player | Book Recommendations |
 |-----------|----------------|------------------------|
-| ![Home](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/home.png?raw=true) | ![Podcast](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/podcast.png?raw=true) | ![Books](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/books.png?raw=true) |
+| ![Home](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/home%20(1).png?raw=true) | ![Podcast](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/podcastplayer.png?raw=true) | ![Books](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/bookrec.png?raw=true) |
 
-| Music Player | Space Viewer |
-|--------------|--------------|
-| ![Music](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/music.png?raw=true) | ![Space](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/space.png?raw=true) |
+| Music Player | Space Viewer | Liked Page 1 |
+|--------------|--------------|---------------|
+| ![Music](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/musicplayer.png?raw=true) | ![Space](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/spaceviewer.png?raw=true) | ![Liked 1](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/likedpage1.png?raw=true) |
+
+| Liked Page 2 |
+|--------------|
+| ![Liked 2](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/likedpage2.png?raw=true) |
 
 
 ---
