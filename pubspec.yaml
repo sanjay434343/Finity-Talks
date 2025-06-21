@@ -1,0 +1,70 @@
+name: finitytalks
+description: A daily podcast app with short episodes and voice interactions.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Firebase
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  
+  # Google Sign In
+  google_sign_in: ^6.1.6
+  
+  # State Management
+  bloc: ^9.0.0
+  flutter_bloc: ^9.0.0
+  
+  # SVG Support
+  flutter_svg: ^2.0.7
+  
+  # Responsive Design
+  flutter_screenutil: ^5.9.0
+  auto_size_text: ^3.0.0
+  
+  # Animations
+  animations: ^2.0.8
+  
+  # Text to Speech
+  flutter_tts: ^4.2.3
+  
+  # Storage
+  shared_preferences: ^2.2.2
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  
+  # HTTP requests
+  http: ^1.1.0
+  google_fonts: ^6.2.1
+  
+  cupertino_icons: ^1.0.2
+  palette_generator: ^0.3.3+2
+  cached_network_image: ^3.3.1
+  just_audio: ^0.9.36
+  equatable: ^2.0.7
+  url_launcher: ^6.2.1
+  sentiment_dart: ^0.0.5
+  audioplayers: ^5.2.1
+  animated_flip_counter: ^0.3.4
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Assets
+  assets:
+    - assets/logo/
