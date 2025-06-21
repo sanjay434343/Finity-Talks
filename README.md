@@ -40,13 +40,18 @@ In today's digital world, conversations often lack depth and meaningful exchange
 
 ---
 
+---
+
 ## 📸 Screenshots
 
-| Home Page | Book Suggestions | Space Chat |
-|----------|------------------|------------|
-| ![Home](https://raw.githubusercontent.com/yourusername/finitytalks/main/assets/screenshots/home.png) | ![Books](https://raw.githubusercontent.com/yourusername/finitytalks/main/assets/screenshots/books.png) | ![Space](https://raw.githubusercontent.com/yourusername/finitytalks/main/assets/screenshots/space.png) |
+| Home Page | Podcast Player | Book Recommendations |
+|-----------|----------------|------------------------|
+| ![Home](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/home.png?raw=true) | ![Podcast](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/podcast.png?raw=true) | ![Books](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/books.png?raw=true) |
 
-> Add more screenshots in the `assets/screenshots/` folder and update the URLs here.
+| Music Player | Space Viewer |
+|--------------|--------------|
+| ![Music](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/music.png?raw=true) | ![Space](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/space.png?raw=true) |
+more screenshots in the `assets/screenshots/` folder and update the URLs here.
 
 ---
 
