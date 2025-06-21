@@ -43,21 +43,27 @@ In today's digital world, conversations often lack depth and meaningful exchange
 ---
 
 ---
+<h2>📸 Screenshots</h2>
 
-## 📸 Screenshots
+<div align="center">
 
-| Home Page | Podcast Player | Book Recommendations |
-|-----------|----------------|------------------------|
-| ![Home](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/home%20(1).png?raw=true) | ![Podcast](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/podcastplayer.png?raw=true) | ![Books](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/bookrec.png?raw=true) |
+<table>
+  <tr>
+    <td><img src="https://github.com/sanjay434343/Finity-Talks/blob/main/readme/home%20(1).png?raw=true" alt="Home" width="250"/></td>
+    <td><img src="https://github.com/sanjay434343/Finity-Talks/blob/main/readme/podcastplayer.png?raw=true" alt="Podcast" width="250"/></td>
+    <td><img src="https://github.com/sanjay434343/Finity-Talks/blob/main/readme/bookrec.png?raw=true" alt="Books" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/sanjay434343/Finity-Talks/blob/main/readme/musicplayer.png?raw=true" alt="Music" width="250"/></td>
+    <td><img src="https://github.com/sanjay434343/Finity-Talks/blob/main/readme/spaceviewer.png?raw=true" alt="Space" width="250"/></td>
+    <td><img src="https://github.com/sanjay434343/Finity-Talks/blob/main/readme/likedpage1.png?raw=true" alt="Liked 1" width="250"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="https://github.com/sanjay434343/Finity-Talks/blob/main/readme/likedpage2.png?raw=true" alt="Liked 2" width="250"/></td>
+  </tr>
+</table>
 
-| Music Player | Space Viewer | Liked Page 1 |
-|--------------|--------------|---------------|
-| ![Music](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/musicplayer.png?raw=true) | ![Space](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/spaceviewer.png?raw=true) | ![Liked 1](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/likedpage1.png?raw=true) |
-
-| Liked Page 2 |
-|--------------|
-| ![Liked 2](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/likedpage2.png?raw=true) |
-
+</div>
 
 ---
 
