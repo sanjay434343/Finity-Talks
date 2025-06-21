@@ -51,7 +51,7 @@ In today's digital world, conversations often lack depth and meaningful exchange
 | Music Player | Space Viewer |
 |--------------|--------------|
 | ![Music](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/music.png?raw=true) | ![Space](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/screenshots/space.png?raw=true) |
-more screenshots in the `assets/screenshots/` folder and update the URLs here.
+
 
 ---
 
