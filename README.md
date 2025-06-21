@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/finlogo.png" alt="FinityTalks Logo" width="200"/>
+<img src="[https://raw.githubusercontent.com/yourusername/finlogo.png](https://github.com/sanjay434343/Finity-Talks/blob/main/readme/logo.png?raw=true)" alt="FinityTalks Logo" width="200"/>
 
 # 🎧 FinityTalks
 
