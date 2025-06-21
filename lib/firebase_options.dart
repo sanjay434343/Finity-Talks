@@ -46,29 +46,29 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB-3UoIVsZcWBllUhQ7YqkkH9ttrkeZgno',
-    appId: '1:88712486713:ios:63677a7affc77a9f3fd2e8',
-    messagingSenderId: '88712486713',
-    projectId: 'finitytalks',
-    storageBucket: 'finitytalks.firebasestorage.app',
-    iosBundleId: 'com.app.finitytalks',
+  apiKey: 'AIzaSyB-XXXXXX-XXXXXX-XXXXXX-XXXXXXXXXXX',
+  appId: '1:000000000000:ios:xxxxxxxxxxxxxxxxxxxxxx',
+  messagingSenderId: '000000000000',
+  projectId: 'your-project-id',
+  storageBucket: 'your-project-id.appspot.com',
+  iosBundleId: 'com.example.yourapp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB-3UoIVsZcWBllUhQ7YqkkH9ttrkeZgno',
-    appId: '1:88712486713:macos:63677a7affc77a9f3fd2e8',
-    messagingSenderId: '88712486713',
-    projectId: 'finitytalks',
-    storageBucket: 'finitytalks.firebasestorage.app',
-    iosBundleId: 'com.app.finitytalks',
+     apiKey: 'AIzaSyB-XXXXXX-XXXXXX-XXXXXX-XXXXXXXXXXX',
+  appId: '1:000000000000:ios:xxxxxxxxxxxxxxxxxxxxxx',
+  messagingSenderId: '000000000000',
+  projectId: 'your-project-id',
+  storageBucket: 'your-project-id.appspot.com',
+  iosBundleId: 'com.example.yourapp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyB-3UoIVsZcWBllUhQ7YqkkH9ttrkeZgno',
-    appId: '1:88712486713:windows:63677a7affc77a9f3fd2e8',
-    messagingSenderId: '88712486713',
-    projectId: 'finitytalks',
-    authDomain: 'finitytalks.firebaseapp.com',
-    storageBucket: 'finitytalks.firebasestorage.app',
+     apiKey: 'AIzaSyB-XXXXXX-XXXXXX-XXXXXX-XXXXXXXXXXX',
+  appId: '1:000000000000:ios:xxxxxxxxxxxxxxxxxxxxxx',
+  messagingSenderId: '000000000000',
+  projectId: 'your-project-id',
+  storageBucket: 'your-project-id.appspot.com',
+  iosBundleId: 'com.example.yourapp',
   );
 }
